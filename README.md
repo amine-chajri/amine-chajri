@@ -71,10 +71,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amine-chajri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amine-chajri&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amine-chajri&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-chajri&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
