@@ -69,12 +69,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amine-chajri&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-chajri&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/amine-chajri?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/amine-chajri?label=Stars&style=for-the-badge&color=e3b341&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/amine-chajri" alt="Amine's Github Contribution Chart" width="100%" />
 </p>
 
 ---
