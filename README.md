@@ -32,7 +32,7 @@
 
 ### 🚀 About Me
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Dev Coding GIF"/>
+<img align="right" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="380" alt="Dev Coding GIF"/>
 
 * 🎓 Currently studying **Full-Stack Web Development** at Nouaceur Wingtech.
 * 💻 Passionate about crafting responsive front-ends and scalable back-end APIs.
